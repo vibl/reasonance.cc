@@ -6,9 +6,9 @@ Opponent processing is a foundational concept in John Vervaeke's cognitive scien
 
 Any intelligent agent is confronted with a challenge of overwhelming scale known as combinatorial explosion. At any given moment, there is a near-infinite set of possible perceptions, interpretations, and actions available. This vastness makes purely computational or logical approaches to decision-making intractable, as the agent would be paralyzed by the sheer volume of possibilities. To function at all, the agent requires a way to filter this infinity down to a manageable, relevant subset.
 
-This necessary function is [[Relevance Realization (RR)]]. It is the continuous and dynamic process of zeroing in on the information that is significant for an agent's goals and survival, while ignoring the vast remainder. [[Relevance Realization (RR)]] is not a static calculation but an ongoing, adaptive process that attunes the agent to its environment.
+This necessary function is [[Relevance Realization]]. It is the continuous and dynamic process of zeroing in on the information that is significant for an agent's goals and survival, while ignoring the vast remainder. [[Relevance Realization]] is not a static calculation but an ongoing, adaptive process that attunes the agent to its environment.
 
-Opponent processing is the underlying mechanism that makes this possible. It is the self-organizing "virtual engine" that drives [[Relevance Realization (RR)]] by creating a constantly shifting attentional landscape. By managing the interplay of competing and complementary forces, opponent processing shapes what an agent finds salient, allowing it to effectively navigate the otherwise overwhelming complexity of its world.
+Opponent processing is the underlying mechanism that makes this possible. It is the self-organizing "virtual engine" that drives [[Relevance Realization]] by creating a constantly shifting attentional landscape. By managing the interplay of competing and complementary forces, opponent processing shapes what an agent finds salient, allowing it to effectively navigate the otherwise overwhelming complexity of its world.
 
 ### **The Dynamic Mechanism: Balancing Efficiency and Resiliency**
 

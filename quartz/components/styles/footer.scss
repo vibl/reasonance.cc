@@ -12,4 +12,14 @@ footer {
     gap: 1rem;
     margin-top: -1rem;
   }
+
+  .cc-license {
+    display: inline-flex;
+    align-items: center;
+  }
+
+  .cc-icon {
+    height: 2em;
+    width: 2em;
+  }
 }

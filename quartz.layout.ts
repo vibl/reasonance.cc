@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Raisonances podcast" : "https://raisonances.fr/",
+      "BY-SA 4.0": "https://creativecommons.org/licenses/by-sa/4.0/",
     },
   }),
 }
@@ -36,9 +36,10 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({ 
+    Component.PodcastLink(),
+    Component.Explorer({
       title: "bla",
-      useSavedState: false
+      useSavedState: false,
     }),
   ],
   right: [
@@ -62,6 +63,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
+    Component.PodcastLink(),
     Component.Explorer(),
   ],
   right: [],

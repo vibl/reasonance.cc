@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "reasonance.cc",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -98,6 +98,9 @@ const config: QuartzConfig = {
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
       // Plugin.CustomOgImages(),
+      Plugin.PodcastPage({
+        rssUrl: "https://anchor.fm/s/f3c92f2c/podcast/rss",
+      }),
     ],
   },
 }
