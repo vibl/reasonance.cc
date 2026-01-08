@@ -120,10 +120,16 @@ button.desktop-explorer {
     padding: 0;
     overscroll-behavior: contain;
 
+    & li {
+      margin: 0.2rem 0;
+    }
+
     & li > a {
       color: var(--dark);
       opacity: 0.75;
       pointer-events: all;
+      line-height: 1.3;
+      display: inline-block;
 
       &.active {
         opacity: 1;
@@ -161,7 +167,7 @@ button.desktop-explorer {
     font-family: var(--headerFont);
     font-size: 0.95rem;
     font-weight: $semiBoldWeight;
-    line-height: 1.5rem;
+    line-height: 1.3;
     display: inline-block;
   }
 
@@ -187,7 +193,7 @@ button.desktop-explorer {
       color: var(--secondary);
       font-weight: $semiBoldWeight;
       margin: 0;
-      line-height: 1.5rem;
+      line-height: 1.3;
       pointer-events: none;
     }
   }
