@@ -1,4 +1,4 @@
-### **Beyond Knowledge: Wisdom as the Antidote to the Meaning Crisis**
+## **Beyond Knowledge: Wisdom as the Antidote to the Meaning Crisis**
 
 In John Vervaeke's framework, wisdom is not an esoteric or outdated virtue but a crucial and practical capacity for modern life. It is presented as the fundamental response to `[[The Meaning Crisis]]`, a widespread condition characterized by a disconnection from oneself, the world, and a sense of ultimate purpose. Wisdom offers a path to re-establish this connection by grounding an individual in a more coherent and meaningful worldview.
 
@@ -6,7 +6,7 @@ At its core, wisdom is the ability to systematically see through and overcome se
 
 This deeper engagement means that wisdom transcends more common forms of knowing. It is more than propositional knowledge (knowing facts) or procedural knowledge (knowing how to perform a skill). Wisdom integrates these with perspectival knowing—the ability to inhabit and understand various points of view—and participatory knowing, which involves transforming oneself to fit the demands of a situation. It is the knowledge gained by becoming the kind of person who can skillfully and meaningfully navigate the complexities of existence.
 
-### **The Cognitive Engine of Wisdom: Enhancing Relevance Realization**
+## **The Cognitive Engine of Wisdom: Enhancing Relevance Realization**
 
 Vervaeke offers a unique cognitive-scientific definition of wisdom that moves it from the abstract to the functional. In this view, wisdom is the dynamic and systemic enhancement of `[[Relevance Realization]]`. This is the cognitive process by which an organism constantly filters an overwhelming amount of information to zero in on what is most significant and consequential for achieving its goals. Enhanced relevance realization allows a person to fluidly grasp the core of a situation and act appropriately.
 
@@ -14,7 +14,7 @@ The opposite of wisdom is not ignorance but folly. Folly is understood as a syst
 
 Wisdom is therefore cultivated by developing cognitive styles that protect and optimize the machinery of relevance realization. Practices such as mindfulness train the attentional systems to resist distraction and cognitive bias. Socratic self-correction fosters the intellectual humility needed to identify and discard false beliefs. Contemplative insight allows for the restructuring of one's worldview, enabling a more adaptive and comprehensive grasp of reality.
 
-### **The Path to Wisdom: Cultivating an Ecology of Practices**
+## **The Path to Wisdom: Cultivating an Ecology of Practices**
 
 Wisdom is not a monolithic state that can be achieved through a single technique or belief system. Instead, it is an emergent property that arises from a balanced and integrated system of personal development. This requires cultivating an `[[Ecology of Practices]]`, a set of complementary psycho-technologies that work together to foster insight, virtue, and cognitive flexibility.
 

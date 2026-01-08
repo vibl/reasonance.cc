@@ -1,3 +1,8 @@
+---
+aliases:
+  - Bla
+---
+
 ## Introduction
 
 Rosa's resonance theory, developed most comprehensively in his 2016 work _Resonanz: Eine Soziologie der Weltbeziehung_, constitutes an attempt to ground critical social theory in phenomenological and existentialist philosophy, drawing primarily on Martin Heidegger, Martin Buber, and Maurice Merleau-Ponty. The synthesis is creative and ambitious, but not without difficulties. Rosa proposes _resonance_ as the counter-concept to alienation—a mode of world-relation characterized by mutual responsiveness, affective attunement, and transformative encounter. His ambition extends beyond philosophical synthesis to sociological application: he wants to identify institutional conditions that enable or prevent resonance. Rosa's synthesis productively integrates three philosophical traditions, but generates normative and translational difficulties that mark both its limits and its prospects for development.

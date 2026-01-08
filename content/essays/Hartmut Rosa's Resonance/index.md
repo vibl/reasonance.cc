@@ -1,7 +1,8 @@
 ---
 title: Introduction to Hartmut Rosa's theory of resonance
+alias:
+  - Hartmut Rosa's resonance
 ---
-
 ## The Paradox of Modern Dissatisfaction
 
 Contemporary affluent societies present a troubling paradox. By nearly every material measure—life expectancy, physical security, access to information—citizens of wealthy nations live better than any previous generation. Yet surveys consistently reveal widespread dissatisfaction, anxiety, and exhaustion. Depression rates climb; burnout becomes endemic; political engagement gives way to cynicism or rage.

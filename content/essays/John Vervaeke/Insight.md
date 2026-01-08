@@ -1,4 +1,4 @@
-### **The Cognitive Engine of Insight**
+## **The Cognitive Engine of Insight**
 
 Insight is not a mysterious or magical event, but a core function of human cognitive architecture. It is best understood not as the discovery of a new fact, but as a radical and rapid restructuring of a problematic frame. This transformation is powered by an optimization of [[Relevance Realization]], the continuous process by which we filter the infinite information in our environment to find what is significant. During an insight, this salience landscape shifts dramatically, causing previously ignored details to become crucial and a solution to become suddenly and powerfully obvious.
 
@@ -6,7 +6,7 @@ This process of restructuring is driven by the dynamic tension of [[Opponent Pro
 
 While often triggered by a specific problem, a profound insight transcends its role as a mere solution. It represents a fundamental upgrade to the cognitive machinery itself. Each significant insight enhances an individual's overall capacity for sense-making, refining the very processes by which they understand and interact with the world. It is not just learning a new answer, but learning a new way to find answers.
 
-### **Cultivating the Conditions for Insight**
+## **Cultivating the Conditions for Insight**
 
 The emergence of insight can be cultivated through the deliberate use of psycho-technologies and the cultivation of specific states of consciousness. Insight is highly correlated with non-ordinary states that alter our default mode of thinking. The [[Flow State]], in particular, provides an optimal environment for insight by silencing the inner critic and dissolving the sense of a separate self. This deep immersion in the agent-arena feedback loop allows for novel connections and patterns to be perceived without the interference of habitual thought patterns.
 
@@ -14,7 +14,7 @@ Overcoming cognitive and existential inertia is essential for breaking out of pr
 
 The pinnacle of this cultivation can lead to a "super flow" state of resonant at-onement, a profound feeling of connection and oneness with reality. This peak experience can trigger not just a single insight, but an insight cascade—a series of interconnected realizations that deeply and permanently re-order one's understanding of the self and the world. This cascade represents a powerful and holistic transformation of one's entire worldview.
 
-### **The Transformative Impact of Insight**
+## **The Transformative Impact of Insight**
 
 A significant insight is a deeply participatory event that fundamentally alters the [[Agent-Arena Relationship]]. It is not a passive reception of information but an active co-creation that remakes both the individual and their perceived world. The insight transforms the agent's identity, skills, and understanding, which in turn reveals a new arena of affordances and possibilities. The very grammar of how one interacts with and co-creates their reality is rewritten.
 

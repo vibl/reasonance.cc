@@ -1,6 +1,6 @@
 Psycho-technologies are formalized and systematic sets of practices designed to enhance and transform human consciousness and cognition. Ranging from ancient innovations like literacy and numeracy to contemplative disciplines like meditation and philosophical methods like Socratic dialogue, these tools provide the structured means to reshape our cognitive processes. They are not merely mental tricks but are fundamental to personal development, the cultivation of wisdom, and the creation of meaning.
 
-### The Core Function: Tools for Overcoming Cognitive Overload
+## The Core Function: Tools for Overcoming Cognitive Overload
 
 Psycho-technologies are best understood as tools for structuring and enhancing cognitive processing. They are formalized, systematic practices that allow individuals to manage the overwhelming complexity of the world. Examples include foundational skills like literacy and numeracy, contemplative practices such as mindfulness meditation, and dialogical methods like the Socratic method. These practices provide reliable procedures for organizing thought, attention, and perception, enabling us to navigate our cognitive landscape more effectively.
 
@@ -8,7 +8,7 @@ The central mechanism by which psycho-technologies function is the enhancement o
 
 Crucially, the impact of psycho-technologies extends far beyond changing our beliefs or propositional knowledge. Their primary function is to transform our non-conscious, embodied skills (procedural knowing) and our fundamental sense of self and reality (perspectival knowing). By engaging in these practices, we are not just learning new facts; we are rewiring our relationship with ourselves and the world, altering how we perceive, act, and ultimately, who we are.
 
-### The Systemic Application: Building an Ecology for Insight
+## The Systemic Application: Building an Ecology for Insight
 
 For addressing profound and deeply-rooted challenges like self-deception or a lack of meaning, a single psycho-technology is often insufficient. Lasting transformation requires an integrated system of complementary practices, what is known as an [[Ecology of Practices]]. This systemic approach ensures that various aspects of our cognition are addressed in a coordinated and mutually reinforcing manner, creating a robust framework for personal development that is more powerful than the sum of its parts.
 
@@ -16,7 +16,7 @@ This ecology is intentionally designed to engineer the conditions for [[Insight]
 
 A key design principle for a successful ecology of practices is opponent processing. This involves combining practices that have complementary and sometimes opposing functions to create a dynamic and balanced cognitive system. For example, one might pair a mindfulness practice that cultivates focused attention with a contemplative practice that encourages a broad, open awareness. This pairing prevents the practitioner from becoming rigid or one-sided, fostering a flexible and resilient mind capable of shifting between different cognitive states as needed.
 
-### The Ultimate Purpose: Cultivating Wisdom and Meaning
+## The Ultimate Purpose: Cultivating Wisdom and Meaning
 
 The ultimate purpose, or *telos*, of engaging with an ecology of psycho-technologies is the cultivation of [[Wisdom]]. Wisdom is not merely the accumulation of knowledge but the dynamic and embodied capacity to overcome self-deception, enhance meaning in life, and skillfully navigate complex, real-world problems. By systematically training our cognitive and existential skills, psycho-technologies provide a practical pathway toward living a wiser and more fulfilling life.
 

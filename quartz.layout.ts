@@ -21,6 +21,13 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
+    Component.ConditionalRender({
+      component: Component.AIDisclaimer(),
+      condition: (page) => {
+        const slug = page.fileData.slug ?? ""
+        return slug.startsWith("essays/") && slug !== "essays/index"
+      },
+    }),
     Component.TagList(),
   ],
   left: [
@@ -40,6 +47,14 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer({
       title: "bla",
       useSavedState: false,
+      mapFn: (node) => {
+        if (node.isFolder && node.data?.filePath) {
+          const folderPath = node.data.filePath.substring(0, node.data.filePath.lastIndexOf("/"))
+          node.displayName = folderPath.split("/").pop() || node.slugSegment
+        } else if (!node.isFolder) {
+          node.displayName = node.data?.filePath?.split("/").pop()?.replace(/\.[^/.]+$/, "") || node.slugSegment
+        }
+      },
     }),
   ],
   right: [
@@ -50,7 +65,14 @@ export const defaultContentPageLayout: PageLayout = {
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+    Component.Breadcrumbs(),
+    Component.ArticleTitle(),
+    Component.ConditionalRender({
+      component: Component.AIDisclaimer(),
+      condition: (page) => page.fileData.slug !== "essays/index",
+    }),
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -64,7 +86,16 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.PodcastLink(),
-    Component.Explorer(),
+    Component.Explorer({
+      mapFn: (node) => {
+        if (node.isFolder && node.data?.filePath) {
+          const folderPath = node.data.filePath.substring(0, node.data.filePath.lastIndexOf("/"))
+          node.displayName = folderPath.split("/").pop() || node.slugSegment
+        } else if (!node.isFolder) {
+          node.displayName = node.data?.filePath?.split("/").pop()?.replace(/\.[^/.]+$/, "") || node.slugSegment
+        }
+      },
+    }),
   ],
   right: [],
 }

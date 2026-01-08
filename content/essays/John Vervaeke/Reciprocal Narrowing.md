@@ -1,18 +1,18 @@
 Reciprocal Narrowing is a self-perpetuating vicious cycle that constricts an individual's capacity for meaningful engagement with the world. It describes a downward spiral where a person's internal world and their perception of the external world become progressively more limited and threatening, mutually reinforcing each other in a destructive feedback loop. This process is a central driver of existential distress and a key concept for understanding personal and societal dysfunction.
 
-#### **The Vicious Cycle of Constriction**
+## **The Vicious Cycle of Constriction**
 
 The core dynamic of Reciprocal Narrowing unfolds within the [[Agent-Arena Relationship]]. As an agent begins to feel constrained, anxious, or incompetent, their cognitive and behavioural options shrink. This internal constriction causes them to perceive the arena—the world of situations and possibilities—as more threatening, less affording, and more complex than they can handle. This perception of a hostile arena then feeds back upon the agent, further justifying their withdrawal and reinforcing their sense of limitation. The agent sees fewer possibilities for action, and the world, in turn, offers fewer invitations for engagement, locking them into an ever-tighter cycle of disengagement.
 
 This downward spiral is a primary engine of [[The Meaning Crisis]]. Meaning is found in the resonant connection between an agent and their arena, where the agent can act effectively and see the world as a place of opportunity. Reciprocal Narrowing systematically severs this connection. By draining the world of affordances for meaningful action and closing off the agent's potential, it traps individuals in a state of absurdity, anxiety, and despair. The world no longer makes sense, and the self feels powerless to change it.
 
-#### **The Cognitive Engine of the Trap**
+## **The Cognitive Engine of the Trap**
 
 The process of Reciprocal Narrowing is powered by a distorted form of [[Relevance Realization]]. This fundamental cognitive process is responsible for zeroing in on what is relevant in any given situation. In a state of narrowing, this machinery is hijacked. It begins to preferentially make problems, threats, and self-confirming negative information salient. The individual's "salience landscape" becomes dominated by despair, ignoring or filtering out opportunities for growth, connection, and positive change. Every new piece of information is interpreted through a negative lens, further solidifying the trap.
 
 Understanding this pathological process is sharpened by contrasting it with its opposite. The virtuous cycle of [[Reciprocal Opening]] provides a clear model of what is lost during narrowing. In Reciprocal Opening, an expansion of cognitive flexibility and an enriched perception of the world mutually reinforce each other. As an agent becomes more open and capable, the world reveals more of its possibilities, which in turn encourages further growth in the agent. This positive feedback loop demonstrates the dynamic of flourishing that Reciprocal Narrowing tragically reverses.
 
-#### **The Path to Liberation**
+## **The Path to Liberation**
 
 Despite its self-reinforcing nature, the cycle of Reciprocal Narrowing is not impervious. It can be shattered by a frame-breaking event, most notably an [[Insight]]. An insight is a sudden and profound restructuring of one's salience landscape, where a problem is radically reframed, revealing new and previously unseen possibilities in both the agent and the arena. This cognitive breakthrough can disrupt the negative feedback loop, breaking the mental "lock-in" and opening a path toward renewed engagement with the world.
 

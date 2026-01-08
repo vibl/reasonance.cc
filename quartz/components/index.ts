@@ -25,6 +25,7 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import Podcast from "./Podcast"
 import PodcastLink from "./PodcastLink"
+import AIDisclaimer from "./AIDisclaimer"
 
 export {
   ArticleTitle,
@@ -54,4 +55,5 @@ export {
   ConditionalRender,
   Podcast,
   PodcastLink,
+  AIDisclaimer,
 }
