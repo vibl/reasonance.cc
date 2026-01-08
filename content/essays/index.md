@@ -1,7 +1,11 @@
 ---
 title: Essays
 ---
-Hi, we are Camille and Vianney. We want to contribute (even microscopically) to laying the foundations for a new civilisation based on dialogue and respect.
+Hi, we are Camille and Vianney. 
+
+After two years and 25 episodes) of a podcast in French, we have started a new [[podcast]] in English.
+
+We use AI as a research tool and publish the results: [[AI curation]].
 
 Here are some essays on:
 - [[essays/John Vervaeke/index]]'s thought, 
